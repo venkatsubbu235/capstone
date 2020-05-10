@@ -21,13 +21,24 @@
 # Registers:
 
 # File marks:
-'0  2  19  ~/Dockerfile
+'0  6  39  ~/index.html
+'1  2  19  ~/Dockerfile
 
 # Jumplist (newest first):
+-'  6  39  ~/index.html
+-'  1  0  ~/index.html
+-'  2  19  ~/Dockerfile
+-'  1  0  ~/Dockerfile
 -'  2  19  ~/Dockerfile
 -'  1  0  ~/Dockerfile
 
 # History of marks within files (newest to oldest):
+
+> ~/index.html
+	"	6	39
+	^	6	40
+	.	6	39
+	+	6	39
 
 > ~/Dockerfile
 	"	2	19
